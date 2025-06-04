@@ -1,2 +1,2 @@
-# SPect-Net
+# PASC-Net
 official implementation of PASC-Net
